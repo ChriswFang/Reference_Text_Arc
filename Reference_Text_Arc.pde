@@ -22,6 +22,6 @@ fill(0,0,0);
 text("kin  a", 100,400);
 noFill();
 arc(mouseX-100, mouseY+100, 15, 15, radians(90),radians(270));
-line(140,400,180,360);
+line(140,360,180,360);
 
 }
