@@ -18,10 +18,10 @@ text("is", 100, 150);
 textSize(40);
 fill(random(255));
 text("Strange", 100, 300); 
-fill(255,150,130);
+fill(0,0,0);
 text("kin  a", 100,400);
 noFill();
-arc(mouseX-100, mouseY+100, 15, 15, radians(90),radians(270));
+arc(mouseX-90, mouseY+100, 15, 15, radians(90),radians(270));
 line(180,400,180,360);
 
 }
